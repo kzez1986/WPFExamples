@@ -1,0 +1,49 @@
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład7\Przykład7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład7\Przykład7\obj\Debug\App.g.cs
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład7\Przykład7\obj\Debug\Przykład7_MarkupCompile.cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład7\Przykład7\bin\Debug\Przykład7.exe
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład7\Przykład7\bin\Debug\Przykład7.pdb
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład7\Przykład7\obj\Debug\Window1.baml
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład7\Przykład7\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład7\Przykład7\obj\Debug\Przykład7.g.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład7\Przykład7\obj\Debug\Przykład7.Properties.Resources.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład7\Przykład7\obj\Debug\Przykład7.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład7\Przykład7\obj\Debug\Przykład7.exe
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład7\Przykład7\obj\Debug\Przykład7.pdb
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład8\Przykład7\obj\Debug\Przykład7.exe
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład8\Przykład7\obj\Debug\Przykład7.pdb
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład8\Przykład7\bin\Debug\Przykład7.exe
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład8\Przykład7\bin\Debug\Przykład7.pdb
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład8\Przykład7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład8\Przykład7\obj\Debug\Window1.baml
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład8\Przykład7\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład8\Przykład7\obj\Debug\App.g.cs
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład8\Przykład7\obj\Debug\Przykład7_MarkupCompile.cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład8\Przykład7\obj\Debug\Przykład7.g.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład8\Przykład7\obj\Debug\Przykład7.Properties.Resources.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład8\Przykład7\obj\Debug\Przykład7.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład9\Przykład7\obj\Debug\Przykład7.exe
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład9\Przykład7\obj\Debug\Przykład7.pdb
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład9\Przykład7\bin\Debug\Przykład7.exe
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład9\Przykład7\bin\Debug\Przykład7.pdb
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład9\Przykład7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład9\Przykład7\obj\Debug\Window1.baml
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład9\Przykład7\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład9\Przykład7\obj\Debug\App.g.cs
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład9\Przykład7\obj\Debug\Przykład7_MarkupCompile.cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład9\Przykład7\obj\Debug\Przykład7.g.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład9\Przykład7\obj\Debug\Przykład7.Properties.Resources.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład9\Przykład7\obj\Debug\Przykład7.csproj.GenerateResource.Cache
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład9 - style\Przykład7\bin\Debug\Przykład7.exe
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład9 - style\Przykład7\bin\Debug\Przykład7.pdb
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład9 - style\Przykład7\obj\Debug\Przykład7.csprojAssemblyReference.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład9 - style\Przykład7\obj\Debug\Window1.baml
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład9 - style\Przykład7\obj\Debug\Window1.g.cs
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład9 - style\Przykład7\obj\Debug\App.g.cs
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład9 - style\Przykład7\obj\Debug\Przykład7_MarkupCompile.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład9 - style\Przykład7\obj\Debug\Przykład7.g.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład9 - style\Przykład7\obj\Debug\Przykład7.Properties.Resources.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład9 - style\Przykład7\obj\Debug\Przykład7.csproj.GenerateResource.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład9 - style\Przykład7\obj\Debug\Przykład7.csproj.CoreCompileInputs.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład9 - style\Przykład7\obj\Debug\Przykład7.exe
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład9 - style\Przykład7\obj\Debug\Przykład7.pdb

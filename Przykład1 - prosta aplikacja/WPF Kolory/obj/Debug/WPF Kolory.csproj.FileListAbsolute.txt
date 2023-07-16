@@ -1,0 +1,12 @@
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\WPF Kolory\WPF Kolory\bin\Debug\WPF Kolory.exe
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\WPF Kolory\WPF Kolory\bin\Debug\WPF Kolory.pdb
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\WPF Kolory\WPF Kolory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\WPF Kolory\WPF Kolory\obj\Debug\Window1.baml
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\WPF Kolory\WPF Kolory\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\WPF Kolory\WPF Kolory\obj\Debug\App.g.cs
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\WPF Kolory\WPF Kolory\obj\Debug\WPF Kolory_MarkupCompile.cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\WPF Kolory\WPF Kolory\obj\Debug\WPF Kolory.g.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\WPF Kolory\WPF Kolory\obj\Debug\WPF_Kolory.Properties.Resources.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\WPF Kolory\WPF Kolory\obj\Debug\WPF Kolory.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\WPF Kolory\WPF Kolory\obj\Debug\WPF Kolory.exe
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\WPF Kolory\WPF Kolory\obj\Debug\WPF Kolory.pdb

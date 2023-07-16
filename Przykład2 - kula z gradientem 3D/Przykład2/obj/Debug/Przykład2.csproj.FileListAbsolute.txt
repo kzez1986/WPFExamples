@@ -1,0 +1,25 @@
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład2\Przykład2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład2\Przykład2\obj\Debug\Window1.baml
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład2\Przykład2\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład2\Przykład2\obj\Debug\App.g.cs
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład2\Przykład2\obj\Debug\Przykład2_MarkupCompile.cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład2\Przykład2\obj\Debug\Przykład2.g.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład2\Przykład2\obj\Debug\Przykład2.Properties.Resources.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład2\Przykład2\obj\Debug\Przykład2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład2\Przykład2\bin\Debug\Przykład2.exe
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład2\Przykład2\bin\Debug\Przykład2.pdb
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład2\Przykład2\obj\Debug\Przykład2.exe
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład2\Przykład2\obj\Debug\Przykład2.pdb
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład2 - kula z gradientem 3D\Przykład2\bin\Debug\Przykład2.exe
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład2 - kula z gradientem 3D\Przykład2\bin\Debug\Przykład2.pdb
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład2 - kula z gradientem 3D\Przykład2\obj\Debug\Przykład2.csprojAssemblyReference.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład2 - kula z gradientem 3D\Przykład2\obj\Debug\Window1.baml
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład2 - kula z gradientem 3D\Przykład2\obj\Debug\Window1.g.cs
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład2 - kula z gradientem 3D\Przykład2\obj\Debug\App.g.cs
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład2 - kula z gradientem 3D\Przykład2\obj\Debug\Przykład2_MarkupCompile.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład2 - kula z gradientem 3D\Przykład2\obj\Debug\Przykład2.g.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład2 - kula z gradientem 3D\Przykład2\obj\Debug\Przykład2.Properties.Resources.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład2 - kula z gradientem 3D\Przykład2\obj\Debug\Przykład2.csproj.GenerateResource.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład2 - kula z gradientem 3D\Przykład2\obj\Debug\Przykład2.csproj.CoreCompileInputs.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład2 - kula z gradientem 3D\Przykład2\obj\Debug\Przykład2.exe
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład2 - kula z gradientem 3D\Przykład2\obj\Debug\Przykład2.pdb

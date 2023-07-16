@@ -1,0 +1,13 @@
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład1 - prosta aplikacja\WPF Kolory\bin\Debug\WPF Kolory.exe
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład1 - prosta aplikacja\WPF Kolory\bin\Debug\WPF Kolory.pdb
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład1 - prosta aplikacja\WPF Kolory\obj\Debug\Przykład1.csprojAssemblyReference.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład1 - prosta aplikacja\WPF Kolory\obj\Debug\Window1.baml
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład1 - prosta aplikacja\WPF Kolory\obj\Debug\Window1.g.cs
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład1 - prosta aplikacja\WPF Kolory\obj\Debug\App.g.cs
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład1 - prosta aplikacja\WPF Kolory\obj\Debug\WPF Kolory_MarkupCompile.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład1 - prosta aplikacja\WPF Kolory\obj\Debug\WPF Kolory.g.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład1 - prosta aplikacja\WPF Kolory\obj\Debug\WPF_Kolory.Properties.Resources.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład1 - prosta aplikacja\WPF Kolory\obj\Debug\Przykład1.csproj.GenerateResource.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład1 - prosta aplikacja\WPF Kolory\obj\Debug\Przykład1.csproj.CoreCompileInputs.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład1 - prosta aplikacja\WPF Kolory\obj\Debug\WPF Kolory.exe
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład1 - prosta aplikacja\WPF Kolory\obj\Debug\WPF Kolory.pdb

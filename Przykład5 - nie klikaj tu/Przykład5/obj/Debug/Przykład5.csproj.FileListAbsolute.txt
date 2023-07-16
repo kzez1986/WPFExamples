@@ -1,0 +1,25 @@
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład5\Przykład5\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład5\Przykład5\obj\Debug\Window1.baml
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład5\Przykład5\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład5\Przykład5\obj\Debug\App.g.cs
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład5\Przykład5\obj\Debug\Przykład5_MarkupCompile.cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład5\Przykład5\obj\Debug\Przykład5.g.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład5\Przykład5\obj\Debug\Przykład5.Properties.Resources.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład5\Przykład5\obj\Debug\Przykład5.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład5\Przykład5\bin\Debug\Przykład5.exe
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład5\Przykład5\bin\Debug\Przykład5.pdb
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład5\Przykład5\obj\Debug\Przykład5.exe
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\Przykład5\Przykład5\obj\Debug\Przykład5.pdb
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład5 - nie klikaj tu\Przykład5\bin\Debug\Przykład5.exe
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład5 - nie klikaj tu\Przykład5\bin\Debug\Przykład5.pdb
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład5 - nie klikaj tu\Przykład5\obj\Debug\Przykład5.csprojAssemblyReference.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład5 - nie klikaj tu\Przykład5\obj\Debug\Window1.baml
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład5 - nie klikaj tu\Przykład5\obj\Debug\Window1.g.cs
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład5 - nie klikaj tu\Przykład5\obj\Debug\App.g.cs
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład5 - nie klikaj tu\Przykład5\obj\Debug\Przykład5_MarkupCompile.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład5 - nie klikaj tu\Przykład5\obj\Debug\Przykład5.g.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład5 - nie klikaj tu\Przykład5\obj\Debug\Przykład5.Properties.Resources.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład5 - nie klikaj tu\Przykład5\obj\Debug\Przykład5.csproj.GenerateResource.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład5 - nie klikaj tu\Przykład5\obj\Debug\Przykład5.csproj.CoreCompileInputs.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład5 - nie klikaj tu\Przykład5\obj\Debug\Przykład5.exe
+C:\Users\kzez1986\Desktop\Projekty do gita\WPF\Przykład5 - nie klikaj tu\Przykład5\obj\Debug\Przykład5.pdb
